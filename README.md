@@ -22,36 +22,36 @@ Shared DTOs and models ensure consistent data exchange between the client and se
 
 ```
 WeatherHub/
-├── Shared/
-│   └── WeatherHub.Shared/
-│       └── DTOs/                       # DTOs for client-server communication.
-|
-├── WeatherHubClient/
-│   ├── Models/                         # Client-specific data models (e.g., UI state).
-│   ├── Services/                       # Client logic for interacting with the server API.
-│   ├── Utils/                          # Client-side utility classes.
-│   ├── Validation/                     # Client-side validation logic (View-specific).
-│   ├── ViewModels/                     # MVVM View Models (business logic and state).
-│   ├── Views/                          # WPF XAML files (UI components).
-│   ├── App.config                      # Application configuration file.
-│   ├── App.xaml                        # Main application definition.
-│   └── AssemblyInfo.cs                 # Assembly metadata.
-|
-├── WeatherHubServer/ (Project Layer)
-│   ├── Composition/                               
-│   ├── Core/                           # Business logic and domain entities.
-│   ├── Data/                           # Database context and repository implementations.
-│   ├── Infrastructure/                 # External services (e.g., OpenWeatherMap API wrapper).
-│   ├── Services/                       # Server-side business services.
-│   └── Utils/                          # Server utility classes.
-|
-└── WeatherHubServer/ (Application Root)
-    ├── Controllers/
-    │   ├── CityCoordinateController.cs # Handles CRUD operations for city coordinates.
-    │   └── WeatherController.cs        # Handles weather data retrieval (including caching).
-    └── appsettings.json                # Server configuration.
-```
+├── WeatherHubShared/                # Folder containing the Shared Class Library
+│   └── WeatherHub.Shared/           # Actual Class Library project
+│       └── DTOs/                    # Data Transfer Objects (DTOs)
+│
+├── WeatherHubClient/                # Folder containing the WPF Client project
+│   └── WeatherHubClient/            # Actual WPF project
+│       ├── Models/
+│       ├── Services/
+│       ├── Utils/
+│       ├── Validation/
+│       ├── ViewModels/
+│       ├── Views/
+│       ├── App.config
+│       ├── App.xaml
+│       └── AssemblyInfo.cs
+│
+├── WeatherHubServer/                # Folder containing the Server project
+│       ├── Composition/
+│       ├── Core/
+│       ├── Data/
+│       ├── Infrastructure/
+│       ├── Services/
+│       ├── Utils/
+│       └── WeatherHubServer/        # Actual ASP.NET Core Web API project
+│           ├── Controllers/
+│           │   ├── CityCoordinateController.cs
+│           │   └── WeatherController.cs
+|           └── appsettings.json
 
+```
 
 - **Shared Library** → contains DTOs, Models, and Validation shared by client and server.
 - **Client (WPF)** → structured according to MVVM: Models, ViewModels, Views, Services, Validation, Utils.
