@@ -24,7 +24,7 @@ Shared DTOs and models ensure consistent data exchange between the client and se
 WeatherHub/
 ├── Shared/
 │   └── WeatherHub.Shared/
-│       └── DTOs/                       # Data Transfer Objects used for client-server communication.
+│       └── DTOs/                       # DTOs for client-server communication.
 |
 ├── WeatherHubClient/
 │   ├── Models/                         # Client-specific data models (e.g., UI state).
@@ -76,28 +76,23 @@ To get the application running, follow these steps in your terminal:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Hadar-Gerashi/WeatherHub.git
     ```
 
-2.  **Navigate to the solution folder:**
-    ```bash
-    cd WeatherHub
-    ```
-
-3.  **Restore packages and build the solution:**
+2.  **Restore packages and build the solution:**
     ```bash
     dotnet restore
     dotnet build
     ```
 
-4.  **Run the Server (ASP.NET Core Web API):**
+3.  **Run the Server (ASP.NET Core Web API):**
     ```bash
     cd WeatherHubServer
     dotnet run
     ```
     *Ensure the server is running before starting the client.*
 
-5.  **Run the Client (WPF Application):**
+4.  **Run the Client (WPF Application):**
     ```bash
     cd WeatherHubClient
     dotnet run
@@ -151,7 +146,7 @@ The server exposes two main controllers for data retrieval and management.
 
 ## Important Notes
 
-* **Access Restriction**: **Only the WPF client is allowed** to access the server's API endpoints (enforced via CORS or API key restriction).
+* **Access Restriction**: **Only the WPF client is allowed** to access the server's API endpoints (enforced through API key restriction).
 * **Configuration**: Ensure your **OpenWeatherMap API key** is correctly set in the `appsettings.json` file of the server project.
 * **Architecture**: Client code adheres to **MVVM principles** for maintainability.
 * **Code Sharing**: Validation logic is centralized in the `WeatherHub.Shared` library to avoid code duplication across the client and server.
