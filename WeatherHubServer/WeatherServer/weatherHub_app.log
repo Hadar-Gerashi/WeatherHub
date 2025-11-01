@@ -1,0 +1,151 @@
+15/10/2025 18:30:08: GET /api/Weather responded 307 in 1ms
+15/10/2025 18:30:11: GET /api/Weather responded 200 in 2722ms
+15/10/2025 18:33:48: GET /api/Weather responded 307 in 2ms
+15/10/2025 18:33:49: GET /api/Weather responded 200 in 1857ms
+15/10/2025 18:34:10: GET /api/Weather responded 307 in 0ms
+15/10/2025 18:34:11: GET /api/Weather responded 200 in 257ms
+15/10/2025 18:34:55: GET /api/Weather responded 307 in 3ms
+15/10/2025 18:34:56: GET /api/Weather responded 200 in 1447ms
+15/10/2025 18:35:14: GET /api/Weather responded 307 in 0ms
+15/10/2025 18:35:14: GET /api/Weather responded 200 in 2ms
+15/10/2025 18:35:29: GET /api/Weather responded 307 in 2ms
+15/10/2025 18:35:31: GET /api/Weather responded 200 in 2148ms
+15/10/2025 18:40:20: GET /api/Weather responded 307 in 0ms
+15/10/2025 18:40:21: GET /api/Weather responded 200 in 1075ms
+15/10/2025 18:40:25: GET /api/Weather responded 307 in 0ms
+15/10/2025 18:40:25: GET /api/Weather responded 200 in 175ms
+15/10/2025 18:40:38: GET /api/Weather responded 400 in 18ms
+15/10/2025 18:40:49: GET /api/Weather responded 400 in 0ms
+INFO 15/10/2025 18:45:07: GET /api/Weather responded 307 in 2ms
+INFO 15/10/2025 18:45:09: GET /api/Weather responded 200 in 1293ms
+INFO 15/10/2025 20:00:46: GET /api/Weather responded 307 in 5ms
+INFO 15/10/2025 20:00:48: GET /api/Weather responded 200 in 1858ms
+INFO 15/10/2025 20:05:14: GET /api/Weather responded 307 in 3ms
+INFO 15/10/2025 20:05:16: GET /api/Weather responded 200 in 1975ms
+INFO 15/10/2025 20:05:45: GET /api/Weather responded 307 in 3ms
+INFO 15/10/2025 20:05:48: GET /api/Weather responded 200 in 3718ms
+INFO 15/10/2025 20:05:51: GET /api/Weather responded 307 in 0ms
+INFO 15/10/2025 20:05:51: GET /api/Weather responded 200 in 9ms
+INFO 15/10/2025 20:14:04: GET /api/Weather responded 307 in 3ms
+INFO 15/10/2025 20:14:06: GET /api/Weather responded 200 in 1750ms
+INFO 15/10/2025 20:14:38: GET /api/Weather responded 307 in 3ms
+INFO 15/10/2025 20:14:40: GET /api/Weather responded 403 in 0ms
+INFO 15/10/2025 20:14:41: GET /api/Weather responded 200 in 3560ms
+INFO 15/10/2025 20:16:33: GET /api/Weather responded 307 in 1ms
+INFO 15/10/2025 20:16:35: GET /api/Weather responded 200 in 1899ms
+INFO 15/10/2025 20:17:01: GET /api/Weather responded 403 in 0ms
+INFO 15/10/2025 20:17:24: GET /api/Weather responded 307 in 0ms
+INFO 15/10/2025 20:17:25: GET /api/Weather responded 200 in 236ms
+INFO 15/10/2025 20:17:29: GET /api/Weather responded 307 in 0ms
+INFO 15/10/2025 20:17:30: GET /api/Weather responded 200 in 909ms
+INFO 15/10/2025 20:18:55: GET /api/Weather responded 400 in 12ms
+INFO 15/10/2025 20:19:00: GET /api/Weather responded 200 in 599ms
+INFO 15/10/2025 20:43:32: GET /api/Weather responded 200 in 1722ms
+INFO 15/10/2025 20:43:38: GET /api/Weather responded 200 in 234ms
+INFO 15/10/2025 20:43:52: GET /api/Weather responded 200 in 13ms
+INFO 15/10/2025 20:45:53: GET /api/Weather responded 200 in 3415ms
+INFO 15/10/2025 20:47:58: GET /api/Weather responded 200 in 1800ms
+INFO 15/10/2025 20:48:11: GET /api/Weather responded 200 in 3ms
+INFO 15/10/2025 20:48:29: GET /api/Weather responded 200 in 1658ms
+INFO 15/10/2025 20:48:50: GET /api/Weather responded 200 in 2338ms
+INFO 15/10/2025 20:50:47: GET /api/Weather responded 200 in 3207ms
+INFO 15/10/2025 20:55:59: GET /api/Weather responded 200 in 3361ms
+INFO 15/10/2025 20:57:09: GET /api/Weather responded 200 in 1694ms
+INFO 15/10/2025 20:58:32: GET /api/Weather responded 200 in 1802ms
+INFO 15/10/2025 20:58:54: GET /api/Weather responded 200 in 3034ms
+INFO 15/10/2025 21:01:09: GET /api/Weather responded 200 in 2076ms
+INFO 15/10/2025 21:02:20: GET /api/Weather responded 200 in 2656ms
+INFO 15/10/2025 21:02:27: GET /api/Weather responded 200 in 176ms
+INFO 15/10/2025 21:03:10: GET /api/Weather responded 200 in 3910ms
+INFO 15/10/2025 21:07:44: GET /api/Weather responded 307 in 2ms
+INFO 15/10/2025 21:07:48: GET /api/Weather responded 200 in 3674ms
+INFO 15/10/2025 21:08:49: GET /api/Weather responded 307 in 2ms
+INFO 15/10/2025 21:08:52: GET /api/Weather responded 200 in 3083ms
+INFO 15/10/2025 21:09:57: GET /api/Weather responded 307 in 6ms
+INFO 15/10/2025 21:10:02: GET /api/Weather responded 200 in 4717ms
+INFO 15/10/2025 21:11:58: GET /api/Weather responded 307 in 5ms
+INFO 15/10/2025 21:12:04: GET /api/Weather responded 200 in 4947ms
+INFO 15/10/2025 21:12:09: GET /swagger/v1/index.html responded 404 in 0ms
+INFO 15/10/2025 21:26:26: GET /api/Weather responded 307 in 4ms
+INFO 15/10/2025 21:26:30: GET /api/Weather responded 200 in 3915ms
+INFO 15/10/2025 21:28:06: GET /api/Weather responded 307 in 3ms
+INFO 15/10/2025 21:28:10: GET /api/Weather responded 200 in 3954ms
+INFO 15/10/2025 21:30:55: GET /api/Weather responded 307 in 4ms
+INFO 15/10/2025 21:31:01: GET /api/Weather responded 200 in 5171ms
+INFO 15/10/2025 21:31:01: GET /api/Weather responded 403 in 0ms
+INFO 15/10/2025 21:33:58: GET /api/Weather responded 307 in 2ms
+INFO 15/10/2025 21:34:00: GET /api/Weather responded 307 in 0ms
+INFO 15/10/2025 21:34:02: GET /api/Weather responded 200 in 3732ms
+INFO 15/10/2025 21:34:19: GET /api/Weather responded 307 in 0ms
+INFO 15/10/2025 21:34:19: GET /api/Weather responded 200 in 15ms
+INFO 15/10/2025 21:37:47: GET /api/Weather responded 307 in 2ms
+INFO 15/10/2025 21:37:49: GET /api/Weather responded 200 in 1541ms
+INFO 15/10/2025 21:37:50: GET /api/Weather responded 307 in 0ms
+INFO 15/10/2025 21:37:51: GET /api/Weather responded 200 in 180ms
+INFO 15/10/2025 21:44:21: GET /api/Weather responded 307 in 2ms
+INFO 15/10/2025 21:44:23: GET /api/Weather responded 200 in 2051ms
+INFO 15/10/2025 21:44:31: GET /api/Weather responded 307 in 0ms
+INFO 15/10/2025 21:44:31: GET /api/Weather responded 200 in 499ms
+INFO 18/10/2025 19:50:19: GET /api/Weather responded 307 in 3ms
+INFO 18/10/2025 19:50:21: GET /api/Weather responded 200 in 2571ms
+INFO 18/10/2025 20:03:20: GET /api/Weather responded 307 in 5ms
+INFO 18/10/2025 20:03:23: GET /api/Weather responded 200 in 2468ms
+INFO 18/10/2025 20:03:24: GET /api/Weather responded 307 in 0ms
+INFO 18/10/2025 20:03:24: GET /api/Weather responded 200 in 199ms
+INFO 18/10/2025 20:03:26: GET /api/Weather responded 307 in 0ms
+INFO 18/10/2025 20:03:26: GET /api/Weather responded 200 in 230ms
+INFO 18/10/2025 20:05:31: GET /api/Weather responded 307 in 2ms
+INFO 18/10/2025 20:05:32: GET /api/Weather responded 200 in 1656ms
+INFO 18/10/2025 20:05:34: GET /api/Weather responded 307 in 0ms
+INFO 18/10/2025 20:05:35: GET /api/Weather responded 200 in 180ms
+INFO 18/10/2025 20:18:08: GET /api/Weather responded 307 in 2ms
+INFO 18/10/2025 20:34:17: GET /api/Weather responded 307 in 3ms
+INFO 18/10/2025 20:34:21: GET /api/Weather responded 200 in 4227ms
+INFO 31/10/2025 15:35:59: GET /api/Weather responded 307 in 5ms
+INFO 31/10/2025 15:36:04: GET /api/Weather responded 200 in 4691ms
+INFO 31/10/2025 15:37:21: GET /api/Weather responded 307 in 0ms
+INFO 31/10/2025 15:37:22: GET /api/Weather responded 200 in 682ms
+INFO 31/10/2025 15:37:25: GET /api/Weather responded 307 in 0ms
+INFO 31/10/2025 15:37:25: GET /api/Weather responded 200 in 401ms
+INFO 31/10/2025 15:37:32: GET /api/Weather responded 307 in 0ms
+INFO 31/10/2025 15:37:32: GET /api/Weather responded 200 in 239ms
+INFO 31/10/2025 15:37:37: GET /api/Weather responded 307 in 0ms
+INFO 31/10/2025 15:37:38: GET /api/Weather responded 200 in 192ms
+INFO 31/10/2025 15:43:01: GET /api/Weather responded 307 in 3ms
+INFO 31/10/2025 15:43:06: GET /api/Weather responded 200 in 5071ms
+INFO 31/10/2025 15:43:53: GET /api/Weather responded 307 in 0ms
+INFO 31/10/2025 15:43:53: GET /api/Weather responded 200 in 271ms
+INFO 31/10/2025 15:43:58: GET /api/Weather responded 307 in 0ms
+INFO 31/10/2025 15:43:58: GET /api/Weather responded 200 in 442ms
+INFO 31/10/2025 15:44:09: GET /api/Weather responded 307 in 0ms
+INFO 31/10/2025 15:44:09: GET /api/Weather responded 200 in 211ms
+INFO 01/11/2025 19:03:51: GET /api/Weather responded 307 in 3ms
+INFO 01/11/2025 19:03:56: GET /api/Weather responded 200 in 3939ms
+INFO 01/11/2025 19:04:46: GET /api/Weather responded 307 in 0ms
+INFO 01/11/2025 19:04:47: GET /api/Weather responded 200 in 315ms
+INFO 01/11/2025 19:04:50: GET /api/Weather responded 307 in 0ms
+INFO 01/11/2025 19:04:50: GET /api/Weather responded 200 in 10ms
+INFO 01/11/2025 19:04:59: GET /api/Weather responded 307 in 0ms
+INFO 01/11/2025 19:04:59: GET /api/Weather responded 200 in 315ms
+INFO 01/11/2025 20:12:31: GET /api/Weather responded 307 in 9ms
+INFO 01/11/2025 20:12:37: GET /api/Weather responded 200 in 6710ms
+INFO 01/11/2025 20:12:40: GET /api/Weather responded 307 in 0ms
+INFO 01/11/2025 20:12:40: GET /api/Weather responded 200 in 211ms
+INFO 01/11/2025 20:25:33: GET /api/Weather responded 307 in 6ms
+INFO 01/11/2025 20:25:38: GET /api/Weather responded 200 in 5206ms
+INFO 01/11/2025 20:26:25: GET /api/Weather responded 307 in 3ms
+INFO 01/11/2025 20:26:30: GET /api/Weather responded 200 in 4801ms
+INFO 01/11/2025 20:29:12: GET /api/Weather responded 307 in 3ms
+INFO 01/11/2025 20:29:15: GET /api/Weather responded 200 in 3402ms
+INFO 01/11/2025 20:29:22: GET /api/Weather responded 307 in 0ms
+INFO 01/11/2025 20:29:22: GET /api/Weather responded 200 in 240ms
+INFO 01/11/2025 20:35:48: GET /api/Weather responded 307 in 3ms
+INFO 01/11/2025 20:35:53: GET /api/Weather responded 200 in 5187ms
+INFO 01/11/2025 20:40:51: GET /api/Weather responded 307 in 5ms
+INFO 01/11/2025 20:40:56: GET /api/Weather responded 200 in 4637ms
+INFO 01/11/2025 20:41:56: GET /api/Weather responded 307 in 2ms
+INFO 01/11/2025 20:42:01: GET /api/Weather responded 200 in 4125ms
+INFO 01/11/2025 20:43:30: GET /api/Weather responded 307 in 3ms
+INFO 01/11/2025 20:43:35: GET /api/Weather responded 200 in 4452ms
+INFO 01/11/2025 20:43:37: GET /api/Weather responded 307 in 0ms
+INFO 01/11/2025 20:43:37: GET /api/Weather responded 200 in 282ms
