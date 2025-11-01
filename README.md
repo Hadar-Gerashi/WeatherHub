@@ -149,4 +149,4 @@ The server exposes two main controllers for data retrieval and management.
 * **Access Restriction**: **Only the WPF client is allowed** to access the server's API endpoints (enforced through API key restriction).
 * **Configuration**: Ensure your **OpenWeatherMap API key** is correctly set in the `appsettings.json` file of the server project.
 * **Architecture**: Client code adheres to **MVVM principles** for maintainability.
-* **Code Sharing**: Validation logic is centralized in the `WeatherHub.Shared` library to avoid code duplication across the client and server.
+* **Code Sharing**: DTOs are shared via the WeatherHub.Shared library to ensure consistent data exchange between the client and server.
